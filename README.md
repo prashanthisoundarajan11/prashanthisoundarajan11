@@ -1,10 +1,14 @@
 
+h4{
+color:pink;
+}
+
+<h4>Hello, I'm Prashanthi 👋</h4>
+
 
 About Me!!
 
 
-
-Hi, I'm Prashanthi 👋
 I have around 9 plus years of experience in Information Technology with a record of increased responsibility.
 I have been involved in scripting/automation, Cloud Computing projects in AWS, GCP,Fullstack,continuous Integration implementation using various Configuration Management tools and, on its Administration, and was responsible for designing, managing servers, software installation, monitoring, troubleshooting, build, deployment and process.
 
