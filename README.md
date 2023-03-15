@@ -1,9 +1,6 @@
 
-h4{
-color:pink;
-}
 
-<h4>Hello, I'm Prashanthi 👋</h4>
+<h4 style="color:pink;">Hello, I'm Prashanthi 👋</h4>
 
 
 About Me!!
