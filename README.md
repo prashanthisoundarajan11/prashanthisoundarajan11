@@ -1,6 +1,6 @@
 
 
-<h3 style="color:red;">Hello, I'm Prashanthi 👋</h3>
+<h3 "text-align:center;">Hello, I'm Prashanthi 👋</h3>
 
 
 About Me!!
